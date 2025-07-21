@@ -21,6 +21,7 @@ Building a Dashboard for Group/Category Based Content Filtering for Pi-hole.
 
 ![Alt text](https://github.com/Moonmaker5420/Internet-Managment-Solution/blob/main/images/1.PNG)
 ![Alt text](https://github.com/Moonmaker5420/Internet-Managment-Solution/blob/main/images/2.PNG)
+![Alt text](https://github.com/Moonmaker5420/Internet-Managment-Solution/blob/main/images/5.PNG)
 
 ---
 
