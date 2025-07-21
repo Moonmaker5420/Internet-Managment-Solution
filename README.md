@@ -19,6 +19,7 @@ Building a Dashboard for Group/Category Based Content Filtering for Pi-hole.
 
 ## 📷 Screenshots
 
+![Alt text](https://github.com/Moonmaker5420/Internet-Managment-Solution/blob/main/images/1.PNG)
 ![Alt text](https://github.com/Moonmaker5420/Internet-Managment-Solution/blob/main/images/2.PNG)
 
 ---
@@ -47,7 +48,7 @@ Building a Dashboard for Group/Category Based Content Filtering for Pi-hole.
 ### 🐍 2. Python Environment
 
 ```bash
-git clone https://github.com/your-username/pihole-dashboard.git
+git clone https://github.com/Moonmaker5420/Internet-Managment-Solution.git
 cd pihole-dashboard
 
 python3 -m venv venv
