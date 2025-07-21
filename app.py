@@ -135,6 +135,7 @@ def dashboard():
 
 
 @app.route('/toggle_group/<int:group_id>')
+@login_required
 def toggle_group(group_id):
     conn = sqlite3.connect(PIHOLE_DB)
     cur = conn.cursor()
