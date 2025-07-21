@@ -256,6 +256,7 @@ def delete_domain(domain_id, group_id):
 
 
 @app.route('/query-log')
+@login_required
 def query_log():
     headers = {
         "Authorization": f"Bearer {PIHOLE_API_TOKEN}",
@@ -274,6 +275,7 @@ def query_log():
         return render_template("query_log.html", queries=[], error=str(e))
 
 @app.route('/api/query-log')
+@login_required
 def api_query_log():
     headers = {
         "Authorization": f"Bearer {PIHOLE_API_TOKEN}",
