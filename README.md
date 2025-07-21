@@ -1,4 +1,4 @@
-# 🛡️ IMS Pi-hole Dashboard
+# 🛡️ Internet Managment Solution - Pi-hole Dashboard
 
 Building a Dashboard for Group/Category Based Content Filtering for Pi-hole.
 ---
